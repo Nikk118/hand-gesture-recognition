@@ -55,7 +55,7 @@ hand_gesture/
 ## Setup (Windows)
 
 ```bash
-git clone https://github.com/<your-username>/hand-gesture-recognition.git
+git clone https://github.com/Nikk118/hand-gesture-recognition.git
 cd hand-gesture-recognition
 python -m venv env
 env\Scripts\activate
